@@ -1,0 +1,38 @@
+body{
+  background-color: rgb(194, 224, 255)
+}
+
+#container{
+  margin-left: 200px;
+  text-align:center;
+  }
+
+h1{
+  color: darkblue;
+  font-family: sans-serif;
+  text-align:center;
+}
+
+a{
+  text-decoration:none;
+  font-size: 1.2em;
+}
+
+ul{
+  margin-left:40%;
+}
+
+a{
+  color:darkblue;
+}
+a:visited{
+  color: darkblue;
+}
+
+h3{
+  color: darkblue;
+  text-align:center;
+  background-color: rgb(102, 153, 255);
+  line-height: 4em;
+  font-family: sans-serif;
+}
